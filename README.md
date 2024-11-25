@@ -47,6 +47,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korichehaithem&show_icons=true&locale=en&layout=compact" alt="korichehaithem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haithemkoriche&show_icons=true&locale=en&layout=compact" alt="korichehaithem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korichehaithem&show_icons=true&locale=en" alt="korichehaithem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Haithemkoriche&show_icons=true&locale=en" alt="korichehaithem" /></p>
